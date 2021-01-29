@@ -1,0 +1,227 @@
+/*
+Template Name: Sophia - Personal Portfolio Template
+Description: Personal Portfolio and Resume Template for Web Designer and Developer.
+Version: 1.0
+Author: https://themeforest.net/user/htmllover
+*/
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media screen and  (max-width: 320px) and (min-width: 0px) {
+
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+    .rotated-text h6{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .rotated-text h1{
+        font-size: 28px;
+        line-height: 30px;
+    }
+    #typed, .typed-cursor{
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+
+}
+
+/* Custom, iPhone Retina */
+@media screen and (max-width: 360px) and (min-width: 321px) {
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+    .rotated-text h6{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .rotated-text h1{
+        font-size: 28px;
+        line-height: 30px;
+    }
+    #typed, .typed-cursor{
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+
+}
+
+/* Custom, iPhone Retina */
+@media screen and (max-width: 375px) and (min-width: 361px) {
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+    .rotated-text h6{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .rotated-text h1{
+        font-size: 28px;
+        line-height: 30px;
+    }
+    #typed, .typed-cursor{
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 414px) and (min-width: 376px) {
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+    .rotated-text h6{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .rotated-text h1{
+        font-size: 28px;
+        line-height: 30px;
+    }
+    #typed, .typed-cursor{
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+
+}
+
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 480px) and (min-width: 415px) {
+
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+    .rotated-text h6{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .rotated-text h1{
+        font-size: 28px;
+        line-height: 30px;
+    }
+    #typed, .typed-cursor{
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+
+}
+
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 568px) and (min-width: 481px) {
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 640px) and (min-width: 569px) {
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+}
+
+/* Small Devices, Tablets */
+@media screen and (max-width: 720px) and (min-width: 641px) {
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+}
+
+/* Small Devices, Tablets */
+@media screen and (max-width: 768px) and (min-width: 721px) {
+    /*hero section*/
+    #home{
+        padding: 100px 0 0;
+    }
+
+    .top-img img{
+        max-width: 100%;
+        position: inherit;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+}
+
